@@ -1,37 +1,44 @@
-# ![Capa](https://acaditi.com.br/wp-content/uploads/2021/05/hacker-etico-vs-hacker-mal.jpg)
+# ![Capa](https://hermes.dio.me/articles/cover/4093609c-1623-4cee-ae11-a53075f55c26.jpg)
 
-# Olá! Meu nome é Cleiton Moreira 👋
+## Olá! Meu nome é Cleiton Moreira 👋
 
-Atualmente, estou aprofundando meus conhecimentos em defesa cibernética. Estou cursando Engenharia de Dados no Santander Coders, o que está me permitindo expandir minhas habilidades e aprender mais sobre o campo. Sou um entusiasta da programação em Python e adoro criar scripts para automatizar tarefas do meu dia a dia, o que me ajuda a ganhar eficiência e produtividade. Além disso, possuo certificações da Cisco e CybeOps, o que reforça meu compromisso com a segurança e a qualidade no que faço. Estou sempre em busca de novos desafios e oportunidades para crescer na área de cibersegurança.
+Atualmente, estou aprimorando meus conhecimentos em defesa cibernética enquanto curso **Engenharia de Dados no Santander Coders**. Este curso está expandindo significativamente minhas habilidades e aprofundando meu entendimento sobre a análise e gestão de dados, o que complementa e fortalece minha atuação na área de segurança cibernética. Sou um entusiasta da programação em Python e dedico-me à criação de scripts para automatizar tarefas, melhorar a eficiência e a produtividade. Possuo certificações da Cisco e CybeOps, evidenciando meu compromisso com a segurança e a excelência. Estou constantemente em busca de novos desafios e oportunidades para crescer na área de cibersegurança.
 
-## O que Eu Faço
+## 🚀 O que Eu Faço
 
-- 🕵️ **Hacking Ético:** Identificação e exploração de vulnerabilidades para melhorar a segurança de sistemas.
-- 💻 **Automação e Scripts:** Desenvolvimento de scripts em Python para automação e análise de segurança.
-- 🔐 **Segurança de Redes:** Configuração de ACLs, análise de tráfego e defesa cibernética.
+- **Hacking Ético:** Identificação e exploração de vulnerabilidades para aprimorar a segurança de sistemas.
+- **Automação e Scripts:** Desenvolvimento de scripts em Python para automação e análise de segurança.
+- **Segurança de Redes:** Configuração de ACLs, análise de tráfego e estratégias de defesa cibernética.
 
-## Projetos Recentes
+## 🏆 Projetos Recentes
 
-- **[Avaliação de Saúde com Python](https://github.com/usuario/projeto-saude):** Script para avaliação de saúde com base em preparo físico, alimentação saudável, saúde do coração e saúde mental.
+- **[Avaliação de Saúde com Python](https://github.com/usuario/projeto-saude):** Script para avaliação de saúde baseado em preparo físico, alimentação saudável, saúde do coração e saúde mental.
 - **[Exploração de Vulnerabilidades com Python](https://github.com/usuario/exploracao-vulnerabilidades):** Ferramenta para a identificação e exploração de vulnerabilidades de segurança.
 - **[Monitoramento de Rede com Kali Linux](https://github.com/usuario/monitoramento-rede):** Configuração e monitoramento de redes para detectar e prevenir ataques.
 
-## Habilidades
+## 💡 Habilidades
 
-- **Linguagens:** Python, Bash
-- **Ferramentas:** Kali Linux, Burp Suite, Nmap, OpenCV
+- **Linguagens de Programação:** Python, Bash
+- **Ferramentas e Tecnologias:** Kali Linux, Burp Suite, Nmap, OpenCV
 - **Certificações:** Cisco, CybeOps
 
-## Contribuições
+## 🌟 Conquistas
 
-Se você está trabalhando em um projeto de segurança ou tem uma ideia para uma nova ferramenta, sinta-se à vontade para entrar em contato. Estou sempre aberto a colaborações e oportunidades para aprender e contribuir!
+- **Certificação Cisco:** Reconhecimento em redes e segurança.
+- **Certificação CybeOps:** Competências avançadas em operações de segurança cibernética.
 
-## Como Entrar em Contato
+## 🤝 Contribuições
 
-- 📧 **Email:** cleiton@example.com
-- 💼 **LinkedIn:** [Cleiton Moreira](https://www.linkedin.com/in/cleiton-moreira)
+Estou sempre aberto a colaborar em projetos de segurança ou explorar novas ideias. Se você está trabalhando em um projeto ou tem uma proposta, não hesite em entrar em contato. Adoro aprender e contribuir para novas iniciativas!
+
+## 📬 Como Entrar em Contato
+
+- **Email:** cleiton@example.com
+- **LinkedIn:** [Cleiton Moreira](https://www.linkedin.com/in/cleiton-moreira)
+- **Twitter:** [@cleiton_moreira](https://twitter.com/cleiton_moreira)
 
 ---
 
-Vamos juntos tornar a internet um lugar mais seguro! 🚀
+Vamos juntos transformar a internet em um espaço mais seguro e eficiente! 🚀
+
 
