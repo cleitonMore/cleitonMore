@@ -1,4 +1,5 @@
-# ![Capa Animada](https://i.gifer.com/EgVJ.gif)
+# ![Descrição do GIF](https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif)
+
 
 ## Olá! Meu nome é Cleiton Moreira 👋
 
