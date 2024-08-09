@@ -6,7 +6,7 @@ Atualmente, estou aprofundando meus conhecimentos em defesa cibernética na **Fa
 
 ## 🎥 Capa Animada
 
-![Animação](https://i.gifer.com/EgVJ.gif)
+![Animação](https://media.giphy.com/media/3o6ZtpxPs5VjTPcZok/giphy.gif)
 
 ## 🚀 O que Eu Faço
 
@@ -57,6 +57,7 @@ Agradeço a todos que apoiam e contribuem para a minha jornada na ciberseguranç
 ---
 
 Vamos juntos transformar a internet em um espaço mais seguro e eficiente! 🚀
+
 
 
 
