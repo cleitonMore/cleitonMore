@@ -1,4 +1,4 @@
-# ![Capa](https://acaditi.com.br/wp-content/uploads/2021/05/hacker-etico-vs-hacker-mal.jpg)
+# ![Capa](https://acaditi.com.br/wp-content/uploads/2020/05/Ethical-Hacking-capa-1.jpg)
 
 ## Olá! Meu nome é Cleiton Moreira 👋
 
