@@ -1,6 +1,6 @@
 # Olá! Meu nome é Cleiton Moreira 👋
 
-![Snake animation](https://github.com/cleitonmore/cleitonmore/blob/output/github-contribution-grid-snake.svg)
+![Descrição do GIF](https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif)
 
 Atualmente, estou aprofundando meus conhecimentos em defesa cibernética na **Faculdade Estácio de Sá** enquanto curso **Engenharia de Dados no Santander Coders**. Este curso está ampliando minhas habilidades em análise e gestão de dados, complementando minha experiência na área de segurança cibernética. Sou um entusiasta da programação em Python e me dedico à criação de scripts para automatizar tarefas, aumentar a eficiência e a produtividade. Possuo certificações da Cisco e CybeOps, reforçando meu compromisso com a segurança e a excelência. Estou sempre em busca de novos desafios e oportunidades para crescimento na cibersegurança.
 
@@ -53,7 +53,6 @@ Agradeço a todos que apoiam e contribuem para a minha jornada na ciberseguranç
 ---
 
 Vamos juntos transformar a internet em um espaço mais seguro e eficiente! 🚀
-
 
 
 
