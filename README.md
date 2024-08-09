@@ -2,7 +2,11 @@
 
 ## Olá! Meu nome é Cleiton Moreira 👋
 
-Atualmente, estou aprofundando meus conhecimentos em defesa cibernética na **faculdade Estacio de Sá** enquanto curso **Engenharia de Dados no Santander Coders**. Este curso está ampliando minhas habilidades em análise e gestão de dados, complementando minha experiência na área de segurança cibernética. Sou um entusiasta da programação em Python e me dedico à criação de scripts para automatizar tarefas, aumentar a eficiência e a produtividade. Possuo certificações da Cisco e CybeOps, reforçando meu compromisso com a segurança e a excelência. Estou sempre em busca de novos desafios e oportunidades para crescimento na cibersegurança.
+Atualmente, estou aprofundando meus conhecimentos em defesa cibernética na **Faculdade Estácio de Sá** enquanto curso **Engenharia de Dados no Santander Coders**. Este curso está ampliando minhas habilidades em análise e gestão de dados, complementando minha experiência na área de segurança cibernética. Sou um entusiasta da programação em Python e me dedico à criação de scripts para automatizar tarefas, aumentar a eficiência e a produtividade. Possuo certificações da Cisco e CybeOps, reforçando meu compromisso com a segurança e a excelência. Estou sempre em busca de novos desafios e oportunidades para crescimento na cibersegurança.
+
+## 🎥 Capa Animada
+
+![Animação](https://i.gifer.com/EgVJ.gif)
 
 ## 🚀 O que Eu Faço
 
@@ -20,9 +24,9 @@ Atualmente, estou aprofundando meus conhecimentos em defesa cibernética na **fa
 
 ## 💡 Habilidades
 
-- **Linguagens de Programação:** Python, linux
-- **Ferramentas e Tecnologias:** Kali Linux, Burp Suite, Nmap, OpenCV, SQL
-- **Certificações:** Cisco, CybeOps, dados
+- **Linguagens de Programação:** Python, Bash, SQL
+- **Ferramentas e Tecnologias:** Kali Linux, Burp Suite, Nmap, OpenCV
+- **Certificações:** Cisco, CybeOps
 - **Áreas de Especialização:** Hacking Ético, Automação, Segurança de Redes, Engenharia de Dados
 
 ## 🌟 Conquistas
@@ -33,9 +37,9 @@ Atualmente, estou aprofundando meus conhecimentos em defesa cibernética na **fa
 
 ## 📚 Recursos e Leitura Recomendada
 
-- **[Guia Básico de Markdown](https://www.markdownguide.org/)**: Para aprender mais sobre a sintaxe Markdown.
-- **[Curso de Hacking Ético](https://www.udemy.com/course/ethical-hacking/)**: Curso para aprimorar suas habilidades em hacking ético.
-- **[Documentação do Python](https://docs.python.org/3/)**: Para explorar as funcionalidades da linguagem Python.
+- **[Guia Básico de Markdown](https://www.markdownguide.org/):** Para aprender mais sobre a sintaxe Markdown.
+- **[Curso de Hacking Ético](https://www.udemy.com/course/ethical-hacking/):** Curso para aprimorar suas habilidades em hacking ético.
+- **[Documentação do Python](https://docs.python.org/3/):** Para explorar as funcionalidades da linguagem Python.
 
 ## 🤝 Contribuições
 
@@ -43,8 +47,8 @@ Estou sempre aberto a colaborar em projetos de segurança ou explorar novas idei
 
 ## 📬 Como Entrar em Contato
 
-- **Email:** cleiton-flores@hotmail.com
-- **LinkedIn:** [Cleiton Moreira](www.linkedin.com/in/cleiton-blueteam)
+- **Email:** [cleiton-flores@hotmail.com](mailto:cleiton-flores@hotmail.com)
+- **LinkedIn:** [Cleiton Moreira](https://www.linkedin.com/in/cleiton-blueteam)
 
 ## 🙏 Agradecimentos
 
