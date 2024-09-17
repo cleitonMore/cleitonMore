@@ -1,58 +1,60 @@
-# Olá! Meu nome é Cleiton Moreira 👋
+# 👋 Olá, eu sou Cleiton Moreira!
 
-![Descrição do GIF](https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif)
+### 🌐 Perfil GitHub: [cleitonmore](https://github.com/cleitonmore)
 
-Atualmente, estou aprofundando meus conhecimentos em defesa cibernética na **Faculdade Estácio de Sá** enquanto curso **Engenharia de Dados no Santander Coders**. Este curso está ampliando minhas habilidades em análise e gestão de dados, complementando minha experiência na área de segurança cibernética. Sou um entusiasta da programação em Python e me dedico à criação de scripts para automatizar tarefas, aumentar a eficiência e a produtividade. Possuo certificações da Cisco e CybeOps, reforçando meu compromisso com a segurança e a excelência. Estou sempre em busca de novos desafios e oportunidades para crescimento na cibersegurança.
+## 🛡️ Sobre mim
+Sou um profissional apaixonado por **cibersegurança** e especializado em **defesa cibernética** (Blue Team), com certificações da **Cisco** e **CybeOps**. Trabalho com **pentesting**, **automação de tarefas em Python** e **segurança de redes**, sempre em busca de novos desafios e soluções inovadoras.
 
-## 🚀 O que Eu Faço
+Atualmente, estou cursando **Engenharia de Dados no Santander Coders** e continuo aprofundando meus conhecimentos em **defesa cibernética** e **dados**. Com foco na **segurança da informação** e **infraestrutura de redes**, busco construir soluções que mantenham sistemas seguros e confiáveis.
 
-- **Hacking Ético:** Identificação e exploração de vulnerabilidades para aprimorar a segurança de sistemas.
-- **Automação e Scripts:** Desenvolvimento de scripts em Python para automação de processos e análise de segurança.
-- **Segurança de Redes:** Configuração de ACLs, análise de tráfego e implementação de estratégias de defesa cibernética.
-- **Engenharia de Dados:** Análise e gestão de grandes volumes de dados para gerar insights e suportar decisões.
+## 🚀 Habilidades
+- **Pentest e Segurança Cibernética (Blue Team)**
+- **Python**: Criação de scripts para automação e segurança
+- **Administração de Redes e Servidores**
+- **Configuração e Análise de VPNs** (incluindo MPLS e VPN de site para site)
+- **Monitoramento e Análise de Tráfego de Rede**
+- **Segurança em Redes Criptografadas (SSL)**
+- **Inteligência de Ameaças e Detecção de Intrusões**
+- **Automação com Bash e Python**
+- **Certificações Cisco e CybeOps**
 
-## 🏆 Projetos Recentes
+## 🛠️ Ferramentas e Tecnologias
+- **Python** (Automação, Scripts de Segurança, Análise de Dados)
+- **Kali Linux, Termux e Kali NetHunter**
+- **Cisco ASA** (Configuração de ACLs, VPNs e Segurança de Redes)
+- **Ferramentas de Pentest** (Metasploit, Nmap, Wireshark)
+- **AWS e Cloud Security**
+- **Git e GitHub**
 
-- **[Avaliação de Saúde com Python](https://github.com/usuario/projeto-saude):** Script para avaliação de saúde baseado em preparo físico, alimentação saudável, saúde do coração e saúde mental.
-- **[Exploração de Vulnerabilidades com Python](https://github.com/usuario/exploracao-vulnerabilidades):** Ferramenta para identificação e exploração de vulnerabilidades de segurança.
-- **[Monitoramento de Rede com Kali Linux](https://github.com/usuario/monitoramento-rede):** Configuração e monitoramento de redes para detectar e prevenir ataques.
-- **[Análise de Dados com Python](https://github.com/usuario/analise-dados):** Projeto de análise e visualização de dados para apoiar decisões empresariais.
+## 🧠 Atualmente aprendendo
+- **Engenharia de Dados**: Foco em **Data Science** e **Big Data**
+- **Automação em Python**: Criando ferramentas de cibersegurança
+- **Redes de Computadores e ACLs Avançadas**
+- **Root de dispositivos Android** com **Kali NetHunter** e ferramentas de segurança móvel
 
-## 💡 Habilidades
+## 📚 Projetos em Destaque
+### 1. **Simulador de Flipper Zero no Termux**
+Um projeto que visa recriar funcionalidades de um **Flipper Zero** diretamente no Termux, simulando várias interações de hardware e protocolos sem fio.
 
-- **Linguagens de Programação:** Python, Bash, SQL
-- **Ferramentas e Tecnologias:** Kali Linux, Burp Suite, Nmap, OpenCV
-- **Certificações:** Cisco, CybeOps
-- **Áreas de Especialização:** Hacking Ético, Automação, Segurança de Redes, Engenharia de Dados
+### 2. **Automatização de Tarefas Diárias com Python**
+Script para automatizar tarefas de rotina no terminal, como monitoramento de portas de rede e análise de logs de segurança.
 
-## 🌟 Conquistas
+### 3. **Classificador de IPs com Algoritmo KNN**
+Projeto de classificação de IPs usando o algoritmo **KNN** sem bibliotecas externas, voltado para análise de padrões de tráfego em redes.
 
-- **Certificação Cisco:** Reconhecimento em redes e segurança.
-- **Certificação CybeOps:** Competências avançadas em operações de segurança cibernética.
-- **Curso de Engenharia de Dados:** Formação contínua em análise e gestão de dados no Santander Coders.
+### 4. **Texto em Estilo ASCII com Efeito de Digitação**
+Visualize uma demonstração do script Python diretamente [nesta página](https://seu-usuario.github.io/seu-repositorio/). 
 
-## 📚 Recursos e Leitura Recomendada
+   Para ver a demonstração do efeito de digitação em estilo ASCII, visite [este link](https://seu-usuario.github.io/seu-repositorio/), onde você encontrará a implementação visual do script.
 
-- **[Guia Básico de Markdown](https://www.markdownguide.org/):** Para aprender mais sobre a sintaxe Markdown.
-- **[Curso de Hacking Ético](https://www.udemy.com/course/ethical-hacking/):** Curso para aprimorar suas habilidades em hacking ético.
-- **[Documentação do Python](https://docs.python.org/3/):** Para explorar as funcionalidades da linguagem Python.
+## 🤝 Contribuições e Colaborações
+Estou sempre aberto a colaborar em projetos de **segurança cibernética**, **automação de scripts**, **pentesting** e **data science**. Se você tiver ideias ou quiser discutir temas relacionados à cibersegurança, sinta-se à vontade para entrar em contato!
 
-## 🤝 Contribuições
+## 📫 Contato
+- **Email**: cleitonmoreira@email.com (substitua pelo seu e-mail real)
+- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/seuperfil) (substitua pelo seu perfil real)
 
-Estou sempre aberto a colaborar em projetos de segurança ou explorar novas ideias. Se você está trabalhando em um projeto ou tem uma proposta, não hesite em entrar em contato. Adoro aprender e contribuir para novas iniciativas!
 
-## 📬 Como Entrar em Contato
-
-- **Email:** [cleiton-flores@hotmail.com](mailto:cleiton-flores@hotmail.com)
-- **LinkedIn:** [Cleiton Moreira](https://www.linkedin.com/in/cleiton-blueteam)
-
-## 🙏 Agradecimentos
-
-Agradeço a todos que apoiam e contribuem para a minha jornada na cibersegurança e programação. Especialmente aos meus mentores, colegas e comunidades que me ajudam a crescer constantemente.
-
----
-
-Vamos juntos transformar a internet em um espaço mais seguro e eficiente! 🚀
 
 
 
