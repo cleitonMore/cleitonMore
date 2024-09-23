@@ -69,6 +69,6 @@ Estou sempre aberto para colaborar em projetos de segurança cibernética, autom
 ---
 
 ## 📫 Contato
-- **E-mail:** cleitonmoreira@email.com
-- **LinkedIn:** Seu LinkedIn (substitua pelo seu perfil real)
+- **E-mail:** #######
+- **LinkedIn:** www.linkedin.com/in/cleiton-cyber
 
