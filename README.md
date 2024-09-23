@@ -1,4 +1,7 @@
-![Capa do README](https://i.gifer.com/SUV4.gif)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://i.gifer.com/SUV4.gif" alt="Capa do README" width="300">
+    <img src="https://giffiles.alphacoders.com/119/119843.gif" alt="Imagem do Meio" width="300">
+</div>
 
 # 👋 Olá, eu sou Cleiton Moreira!
 
@@ -68,3 +71,4 @@ Estou sempre aberto para colaborar em projetos de segurança cibernética, autom
 ## 📫 Contato
 - **E-mail:** cleitonmoreira@email.com
 - **LinkedIn:** Seu LinkedIn (substitua pelo seu perfil real)
+
