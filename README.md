@@ -65,7 +65,7 @@ Sempre aberto a colaborar em projetos de segurança cibernética, automação de
 ---
 
 ## 📫 Contato
-- **E-mail**: #######  
+- **E-mail**: cleiton-flores@hotmail.com 
 - **LinkedIn**: [www.linkedin.com/in/cleiton-cyber](https://www.linkedin.com/in/cleiton-cyber)
 
 ---
