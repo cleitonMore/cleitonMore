@@ -1,7 +1,9 @@
-👋 Olá, eu sou [Seu Nome]!
+👋 Olá, eu sou CLEITON!
 
+![Cybersecurity Animation](https://i.makeagif.com/media/5-02-2023/wTOmVJ.gif)
 
-🌐 Perfil GitHub: SeuPerfilGitHub
+🌐 **Perfil GitHub**: [cleitonmore](https://github.com/cleitonmore)
+
 
 🛡️ Sobre Mim
 Sou um entusiasta de DevOps e cibersegurança com foco em integração de ferramentas de automação, segurança em pipelines de CI/CD e análise de dados. Com certificações reconhecidas e experiência prática em projetos de engenharia de dados e defesa cibernética, busco constantemente soluções inovadoras que integrem eficiência e segurança.
