@@ -1,6 +1,6 @@
 👋 Olá, eu sou CLEITON!
 
-![Cybersecurity Animation](https://i.makeagif.com/media/5-02-2023/wTOmVJ.gif)
+![Cybersecurity Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fluizcarlos16&psig=AOvVaw3oZqR3Lj8GHhUr6FnKVWx4&ust=1737038816790000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDUmIT894oDFQAAAAAdAAAAABAE)
 
 🌐 **Perfil GitHub**: [cleitonmore](https://github.com/cleitonmore)
 
