@@ -44,6 +44,8 @@ Versionamento: Git e GitHub
 🚀 Monitoramento de Pipelines CI/CD com Segurança Integrada
 Automação do monitoramento e validação de segurança em pipelines usando GitHub Actions, SonarQube e alertas em Slack.
 
+![Animation](https://appinventiv.com/wp-content/uploads/2024/05/hh.gif)
+
 
 
 🔄 Análise de Logs e Detecção de Ameaças
@@ -58,7 +60,6 @@ Pipeline de dados para transformar e carregar informações em um data warehouse
 🤝 Contribuições e Colaborações
 Adoro colaborar em projetos que combinam DevOps, segurança cibernética e engenharia de dados. Vamos construir juntos sistemas mais seguros e eficientes?
 
-![Animation](https://appinventiv.com/wp-content/uploads/2024/05/hh.gif)
 
 ---
 
