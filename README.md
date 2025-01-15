@@ -1,6 +1,6 @@
 👋 Olá, eu sou CLEITON!
 
-![Cybersecurity Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fluizcarlos16&psig=AOvVaw3oZqR3Lj8GHhUr6FnKVWx4&ust=1737038816790000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDUmIT894oDFQAAAAAdAAAAABAE)
+![Animation](https://camo.githubusercontent.com/f57eb2aa99b4e4693b65c62a0b6730378da995edc50e4c3c3a3eb5e546db0e47/68747470733a2f2f63646e2e6661756e2e6465762f70726f642f6d656469612f7075626c69632f6f726967696e616c5f696d616765732f6465764f70732d636c6f75642d6e61746976652e676966)
 
 🌐 **Perfil GitHub**: [cleitonmore](https://github.com/cleitonmore)
 
