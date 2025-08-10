@@ -1,48 +1,56 @@
 👋 Olá, eu sou CLEITON!
 
-![Animation](https://camo.githubusercontent.com/f57eb2aa99b4e4693b65c62a0b6730378da995edc50e4c3c3a3eb5e546db0e47/68747470733a2f2f63646e2e6661756e2e6465762f70726f642f6d656469612f7075626c69632f6f726967696e616c5f696d616765732f6465764f70732d636c6f75642d6e61746976652e676966)
+![Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dio.me%2Farticles%2Fcomo-nao-se-tornar-um-profissional-da-programacao-o-guia-definitivo-em-7-passos&psig=AOvVaw12mwlxTzWWMlDF5VJxzSpW&ust=1754937057760000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiUtZfwgI8DFQAAAAAdAAAAABAE)
 
 🌐 **Perfil GitHub**: [cleitonmore](https://github.com/cleitonmore)
 
 
 🛡️ Sobre Mim
-Sou um entusiasta de DevOps e cibersegurança com foco em integração de ferramentas de automação, segurança em pipelines de CI/CD e análise de dados. Com certificações reconhecidas e experiência prática em projetos de engenharia de dados e defesa cibernética, busco constantemente soluções inovadoras que integrem eficiência e segurança.
+Sou um entusiasta de cibersegurança, desenvolvimento  com foco em integração de ferramentas de automação, segurança em pipelines de CI/CD e análise de dados, desenvolvimento de Apps. Com certificações reconhecidas e experiência prática em projetos de  defesa cibernética e desenvolvimento, busco constantemente soluções inovadoras que integrem eficiência e segurança.
 
-📘 Atualmente, estou expandindo minhas habilidades em Engenharia de Dados com foco em Big Data e computação em nuvem para suporte a operações escaláveis e seguras.
+📘 Atualmente, estou expandindo minhas habilidades em back end com foco em Apps.
 
 🚀 Habilidades
-🛠️ DevOps & CI/CD:
-Implementação de pipelines automatizados com Jenkins, GitLab CI/CD e GitHub Actions.
-Contêineres com Docker e orquestração com Kubernetes.
-Infraestrutura como Código (IaC) com Terraform e Ansible.
-📊 Engenharia de Dados:
-Processamento de grandes volumes de dados com Apache Spark e Pandas.
-Integração e transformação de dados em ETL Pipelines.
-🔒 Cibersegurança:
-Monitoramento e análise de tráfego de rede para identificação de ameaças.
-Implementação de soluções de segurança em pipelines DevOps (DevSecOps).
-Pentesting e análise de vulnerabilidades com Nmap, Metasploit, Wireshark.
-🤖 Automação com Python:
-Criação de scripts para análise de logs e detecção de intrusões.
-Automação de tarefas em ambientes DevOps e segurança.
-⚙️ Cloud Computing:
-Configuração e monitoramento de ambientes em AWS e Azure.
-Segurança e automação em ambientes cloud híbridos.
+🛠️ Backend
+Desenvolvimento de APIs RESTful com Node.js, Express e frameworks similares.
+
+Gestão e integração de bancos de dados relacionais e não relacionais (MySQL, PostgreSQL, MongoDB).
+
+Implementação de lógica de negócios, autenticação, autorização e segurança em backend.
+
+Criação de scripts e automações com Python para suporte ao backend.
+
+Desenvolvimento orientado a testes (TDD) e práticas de clean code.
+
+📊 Engenharia de Dados (básico)
+Manipulação e transformação de dados com Python e Pandas para suporte a backend.
+
+Integração de pipelines simples para processamento de dados.
+
+⚙️ Cloud e Versionamento
+Deploy e monitoramento de aplicações backend em ambientes AWS e Azure.
+
+Uso de Git e GitHub para controle de versão e colaboração.
+
 🛠️ Ferramentas e Tecnologias
-DevOps: Docker, Kubernetes, Jenkins, GitLab CI/CD, GitHub Actions, Terraform, Ansible
-Cibersegurança: Kali Linux, Nessus, Burp Suite, Snort, Splunk
-Linguagens: Python, Bash, SQL
-Engenharia de Dados: Apache Spark, Hadoop, Kafka, Airflow
-Monitoramento: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
-Versionamento: Git e GitHub
+Backend: Node.js, Express, Python
+
+Bancos de Dados: MySQL, PostgreSQL, MongoDB
+
+Linguagens: JavaScript, Python, SQL
+
+Versionamento: Git, GitHub
+
+Cloud: AWS, Azure (conceitos básicos e deploy)
+
 🧠 Atualmente Aprendendo
-📈 Machine Learning para Segurança Cibernética: Modelos de IA para detecção de anomalias.
-🔧 DevSecOps: Integração contínua com segurança em foco.
-☁️ Infraestrutura Cloud Escalável: Gerenciamento e segurança de clusters Kubernetes.
-🛠️ Análise de Logs em Tempo Real: Usando ELK Stack para detecção de ataques.
-📚 Projetos em Destaque
-🚀 Monitoramento de Pipelines CI/CD com Segurança Integrada
-Automação do monitoramento e validação de segurança em pipelines usando GitHub Actions, SonarQube e alertas em Slack.
+Desenvolvimento avançado em backend com Node.js e frameworks modernos.
+
+Segurança aplicada a backend, incluindo autenticação JWT e OAuth.
+
+Integração contínua para projetos backend.
+
+Melhores práticas em arquitetura de software backend
 
 ![Animation](https://appinventiv.com/wp-content/uploads/2024/05/hh.gif)
 
@@ -58,7 +66,7 @@ Desenvolvimento de uma solução completa para provisionamento de ambientes segu
 Pipeline de dados para transformar e carregar informações em um data warehouse com análise de desempenho.
 
 🤝 Contribuições e Colaborações
-Adoro colaborar em projetos que combinam DevOps, segurança cibernética e engenharia de dados. Vamos construir juntos sistemas mais seguros e eficientes?
+Adoro colaborar em projetos que combinam DevOps, segurança cibernética,engenharia de dados e javascript. Vamos construir juntos sistemas mais seguros e eficientes?
 
 
 ---
